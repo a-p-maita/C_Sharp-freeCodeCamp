@@ -1,5 +1,7 @@
 # 2026-05-31T1332Z__NOTES__FreeCodeCamp-Foundational-C#.md
 
+**Links:** [freeCodeCamp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/write-your-first-code-using-c-sharp/write-your-first-c-sharp-code) [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/)
+
 ## Microsoft Learn - Introduction - Unit 1 of 7
 
 Allows building of:
